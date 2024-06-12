@@ -1,0 +1,9 @@
+problem,num_nodes,num_edges,traffic_seed,scale_factor,tm_model,total_demand,algo,num_paths,edge_disjoint,dist_metric,objective,obj_val,runtime
+B4.json,12,38,28,1.0,real,27631.546875,Teal,4,True,min-hop,total_flow,24345.740234375,0.012245893478393555
+B4.json,12,38,29,1.0,real,26872.892578125,Teal,4,True,min-hop,total_flow,24074.169921875,0.0032706260681152344
+B4.json,12,38,30,1.0,real,27954.48046875,Teal,4,True,min-hop,total_flow,25252.26953125,0.0020923614501953125
+B4.json,12,38,31,1.0,real,27966.404296875,Teal,4,True,min-hop,total_flow,25211.150390625,0.0022008419036865234
+B4.json,12,38,32,1.0,real,29260.921875,Teal,4,True,min-hop,total_flow,26897.591796875,0.0019378662109375
+B4.json,12,38,33,1.0,real,28288.6328125,Teal,4,True,min-hop,total_flow,25965.767578125,0.0020902156829833984
+B4.json,12,38,34,1.0,real,28490.2421875,Teal,4,True,min-hop,total_flow,24914.576171875,0.0021741390228271484
+B4.json,12,38,35,1.0,real,27384.470703125,Teal,4,True,min-hop,total_flow,24269.8203125,0.0022492408752441406
