@@ -7,3 +7,12 @@ B4.json,12,38,32,1.0,real,29260.921875,Teal,4,True,min-hop,total_flow,26897.5917
 B4.json,12,38,33,1.0,real,28288.6328125,Teal,4,True,min-hop,total_flow,25965.767578125,0.0020902156829833984
 B4.json,12,38,34,1.0,real,28490.2421875,Teal,4,True,min-hop,total_flow,24914.576171875,0.0021741390228271484
 B4.json,12,38,35,1.0,real,27384.470703125,Teal,4,True,min-hop,total_flow,24269.8203125,0.0022492408752441406
+problem,num_nodes,num_edges,traffic_seed,scale_factor,tm_model,total_demand,algo,num_paths,edge_disjoint,dist_metric,objective,obj_val,runtime
+B4.json,12,38,28,1.0,real,27631.546875,Teal,4,True,min-hop,total_flow,26532.4609375,0.007149934768676758
+B4.json,12,38,29,1.0,real,26872.892578125,Teal,4,True,min-hop,total_flow,26308.0078125,0.005869150161743164
+B4.json,12,38,30,1.0,real,27954.48046875,Teal,4,True,min-hop,total_flow,27369.63671875,0.0061244964599609375
+B4.json,12,38,31,1.0,real,27966.404296875,Teal,4,True,min-hop,total_flow,27196.50390625,0.006023883819580078
+B4.json,12,38,32,1.0,real,29260.921875,Teal,4,True,min-hop,total_flow,28321.50390625,0.005814552307128906
+B4.json,12,38,33,1.0,real,28288.6328125,Teal,4,True,min-hop,total_flow,27754.34765625,0.006362438201904297
+B4.json,12,38,34,1.0,real,28490.2421875,Teal,4,True,min-hop,total_flow,27315.126953125,0.00581049919128418
+B4.json,12,38,35,1.0,real,27384.470703125,Teal,4,True,min-hop,total_flow,26740.55859375,0.006150722503662109
